@@ -28,12 +28,22 @@ body {
 }
 
 a {
-  color: purple;
+  color: white;
   text-decoration: none;
   text-transform: uppercase;
+  font-size: 12px;
+  background: blue;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
-.container {
+a:hover {
+  background: yellow;
+  color: black;
+}
+
+.submenu {
   margin: 0px auto;
   width: 90%;
   background-color: rgb(225, 225, 225);
