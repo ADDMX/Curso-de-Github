@@ -24,7 +24,11 @@ body {
 }
 
 .estilo_uno {
-  color: red;
+  color: gray;
+  font-size: 35px;
+  text-transform: uppercase;
+  background-color: antiquewhite;
+  padding: 20px;
 }
 
 a {
