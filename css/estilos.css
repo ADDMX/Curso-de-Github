@@ -24,7 +24,8 @@ body {
 }
 
 .estilo_uno {
-  color: red;
+  color: purple;
+  font-size: 40px;
 }
 
 a {
