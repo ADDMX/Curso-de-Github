@@ -2,3 +2,57 @@ body {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+a {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  display: block;
+}
+
+.header-banamex {
+  width: 100%;
+  background-color: rgb(247, 241, 234);
+  padding: 10px 0px 10px 0px;
+  margin: 0px auto;
+}
+
+.nav-banamex {
+  width: 90%;
+  margin: 0px auto;
+  background: rgb(135, 112, 226);
+  color: white;
+  padding: 10px 0px 10px 0px;
+}
+
+.menu-banamex {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-banamex {
+  width: 20%;
+  background: #7720ce;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.link-banamex:hover {
+  width: 20%;
+  background: #8e72a9;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
