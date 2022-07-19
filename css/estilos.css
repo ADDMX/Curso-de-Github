@@ -67,4 +67,27 @@ li {
   padding: 10px;
   border-radius: 5px;
   cursor: pointer;
+.main-banamex {
+  width: 90%;
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container-banamex {
+  width: 30%;
+  background: #f0f0f0;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: justify;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.titles-banamex {
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+  border-bottom: 1px solid gray;
 }
