@@ -28,9 +28,28 @@ nav {
   background: violet;
 }
 
+.linked {
+  display: block;
+  width: 20%;
+  background: yellow;
+  padding: 15px;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  cursor: pointer;
+  color: black;
+}
+
+.linked:hover {
+  background: rgb(121, 121, 39);
+  color: white;
+}
+
 .menu {
   width: 100%;
   display: flex;
+  justify-content: center;
 }
 
 .main-banamex {
