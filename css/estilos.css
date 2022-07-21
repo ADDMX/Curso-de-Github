@@ -14,3 +14,20 @@ body {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+  width: 90%;
+  margin: 0px auto;
+  background-color: rgb(229, 229, 229);
+  padding: 20px;
+}
+
+nav {
+  width: 100%;
+  background: violet;
+}
+
+.menu {
+  width: 100%;
+  display: flex;
+}
