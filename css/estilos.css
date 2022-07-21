@@ -23,6 +23,14 @@ header {
   margin-bottom: 20px;
 }
 
+footer {
+  width: 90%;
+  margin: 0px auto;
+  background-color: rgb(229, 229, 229);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
 nav {
   width: 100%;
   background: violet;
